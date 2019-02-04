@@ -1,0 +1,3 @@
+﻿@Html.DropDownList("", new[] { new SelectListItem { Text = "Yes", Value = "Yes"},
+                                new SelectListItem { Text = "No", Value= "No" } }, 
+                                "-- Select --", new { @class= "form-control", @onchange="enabledisabletextbox(this.value)" })

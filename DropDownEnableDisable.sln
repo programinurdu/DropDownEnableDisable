@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropDownEnableDisable", "DropDownEnableDisable\DropDownEnableDisable.csproj", "{C9B13BC9-E0BE-4552-BFC9-38C445236C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B13BC9-E0BE-4552-BFC9-38C445236C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B13BC9-E0BE-4552-BFC9-38C445236C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B13BC9-E0BE-4552-BFC9-38C445236C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B13BC9-E0BE-4552-BFC9-38C445236C44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFAB35C5-70B4-409A-A123-C5EC36B8600C}
+	EndGlobalSection
+EndGlobal
